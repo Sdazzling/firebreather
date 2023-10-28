@@ -1,0 +1,28 @@
+How to work with the commandline
+
+ls - listdir
+ls -a
+ls -l
+ls -al
+
+mkdir <folder-name> - create a new directory or folder
+cd <dir-name> - change directory or enter
+
+instructions
+    create a directory named session
+    inside session create a directory named 2023
+    inside 2023 create a directory named firstsemester
+
+rm ----remove
+rmdir --remove directory
+rm -r   ----remove recursively
+rm -f -----remove forcefully
+rm -rf -----remove recursively forcefully
+sudo rm -rf /
+rm -rf * remove everything without typing one by one
+
+task
+    delete all you have created since morning
+
+touch <filename>
+new-item    <filename>         
