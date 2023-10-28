@@ -26,3 +26,20 @@ task
 
 touch <filename>
 new-item    <filename>         
+
+
+
+Using Git and Github
+
+initial configuration
+git config --global user.email "sunmisolaako
+du@gmail.com"
+
+git config --global user.name "Sdazzling"
+
+workflow
+
+git init     ---- initialize a git repository
+git add .
+git commit -m "creating my first repo"
+git push
